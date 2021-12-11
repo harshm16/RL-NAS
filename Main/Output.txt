@@ -1,0 +1,2523 @@
+##################################
+Traditional CNN evaluation...
+##################################
+
+Epoch 0:
+Training Loss: 2.0665253107127546, Training Accuracy: 27.268%
+Testing Loss: 1.9902774327218533, Testing Accuracy: 31.13%
+Epoch 1:
+Training Loss: 1.9151989824399351, Training Accuracy: 34.786%
+Testing Loss: 1.8638870751507581, Testing Accuracy: 35.91%
+Epoch 2:
+Training Loss: 1.822159469834119, Training Accuracy: 38.07%
+Testing Loss: 1.8095201930783689, Testing Accuracy: 38.17%
+Epoch 3:
+Training Loss: 1.7816690910550952, Training Accuracy: 39.318%
+Testing Loss: 1.7863026931725443, Testing Accuracy: 38.62%
+Epoch 4:
+Training Loss: 1.760740249569118, Training Accuracy: 40.11%
+Testing Loss: 1.7727636514753102, Testing Accuracy: 39.04%
+##################################
+Control performance: 36.574
+##################################
+
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.072888006467521, Training Accuracy: 26.834%
+Testing Loss: 2.014827521859109, Testing Accuracy: 30.59%
+Epoch 1:
+Training Loss: 1.9979349631725252, Training Accuracy: 30.922%
+Testing Loss: 1.9803908129051329, Testing Accuracy: 31.07%
+Epoch 2:
+Training Loss: 1.9720746134838463, Training Accuracy: 31.926%
+Testing Loss: 1.9660011698290705, Testing Accuracy: 32.13%
+Epoch 3:
+Training Loss: 1.9565958073888718, Training Accuracy: 32.518%
+Testing Loss: 1.955149690438807, Testing Accuracy: 32.71%
+Epoch 4:
+Training Loss: 1.9475772919291259, Training Accuracy: 32.904%
+Testing Loss: 1.9442905291840433, Testing Accuracy: 32.58%
+##################################
+Child's performance: 31.815999999999995
+##################################
+
+Iteration 0:
+Controller's Loss: 122.69639587402344
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9861017938302457, Training Accuracy: 28.92%
+Testing Loss: 1.9187450526289642, Testing Accuracy: 32.21%
+Epoch 1:
+Training Loss: 1.8747926800771058, Training Accuracy: 33.918%
+Testing Loss: 1.9078984910678118, Testing Accuracy: 32.27%
+Epoch 2:
+Training Loss: 1.8414591547676922, Training Accuracy: 35.092%
+Testing Loss: 1.8983739717751742, Testing Accuracy: 32.97%
+Epoch 3:
+Training Loss: 1.8219877624179424, Training Accuracy: 36.144%
+Testing Loss: 1.8954611622735857, Testing Accuracy: 33.06%
+Epoch 4:
+Training Loss: 1.8096639561091363, Training Accuracy: 36.584%
+Testing Loss: 1.8896740826949476, Testing Accuracy: 33.19%
+##################################
+Child's performance: 32.739999999999995
+##################################
+
+Iteration 1:
+Controller's Loss: 127.96499633789062
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0009894241100548, Training Accuracy: 29.986%
+Testing Loss: 1.894324892191589, Testing Accuracy: 34.39%
+Epoch 1:
+Training Loss: 1.8443997971893846, Training Accuracy: 36.604%
+Testing Loss: 1.8219655687078833, Testing Accuracy: 36.93%
+Epoch 2:
+Training Loss: 1.7861713800824432, Training Accuracy: 38.794%
+Testing Loss: 1.7860030982248485, Testing Accuracy: 38.16%
+Epoch 3:
+Training Loss: 1.757067421637103, Training Accuracy: 39.76%
+Testing Loss: 1.766603086517751, Testing Accuracy: 38.92%
+Epoch 4:
+Training Loss: 1.7389494889077544, Training Accuracy: 40.404%
+Testing Loss: 1.7539149430241436, Testing Accuracy: 39.69%
+##################################
+Child's performance: 37.617999999999995
+##################################
+
+Iteration 2:
+Controller's Loss: 145.01597595214844
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.2683986889044943, Training Accuracy: 15.828%
+Testing Loss: 2.212850319375098, Testing Accuracy: 18.11%
+Epoch 1:
+Training Loss: 2.1579477681702377, Training Accuracy: 20.854%
+Testing Loss: 2.1753276207119225, Testing Accuracy: 20.55%
+Epoch 2:
+Training Loss: 2.1107986720178276, Training Accuracy: 23.17%
+Testing Loss: 2.144812529170513, Testing Accuracy: 20.41%
+Epoch 3:
+Training Loss: 2.0847574400740116, Training Accuracy: 24.418%
+Testing Loss: 2.137935400914401, Testing Accuracy: 21.86%
+Epoch 4:
+Training Loss: 2.0689243405494095, Training Accuracy: 25.314%
+Testing Loss: 2.12837046071887, Testing Accuracy: 22.07%
+##################################
+Child's performance: 20.6
+##################################
+
+Iteration 3:
+Controller's Loss: 78.34832763671875
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.3172430203819276, Training Accuracy: 13.178%
+Testing Loss: 2.2592604432970287, Testing Accuracy: 16.67%
+Epoch 1:
+Training Loss: 2.20253353877753, Training Accuracy: 19.134%
+Testing Loss: 2.1470958255529404, Testing Accuracy: 22.2%
+Epoch 2:
+Training Loss: 2.0707727881366016, Training Accuracy: 25.476%
+Testing Loss: 2.048608406382799, Testing Accuracy: 26.49%
+Epoch 3:
+Training Loss: 2.002158333438188, Training Accuracy: 28.34%
+Testing Loss: 2.0196440519854426, Testing Accuracy: 27.4%
+Epoch 4:
+Training Loss: 1.9682311046525092, Training Accuracy: 29.876%
+Testing Loss: 1.9976816246137024, Testing Accuracy: 28.7%
+##################################
+Child's performance: 24.291999999999998
+##################################
+
+Iteration 4:
+Controller's Loss: 94.65008544921875
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 2.016452071249485, Training Accuracy: 27.852%
+Testing Loss: 1.9465965314283966, Testing Accuracy: 30.77%
+Epoch 1:
+Training Loss: 1.8917211461378634, Training Accuracy: 33.274%
+Testing Loss: 1.9004956144556404, Testing Accuracy: 32.87%
+Epoch 2:
+Training Loss: 1.850702187409699, Training Accuracy: 35.066%
+Testing Loss: 1.889883047555387, Testing Accuracy: 33.27%
+Epoch 3:
+Training Loss: 1.8260272182105481, Training Accuracy: 35.986%
+Testing Loss: 1.8805123015262186, Testing Accuracy: 33.58%
+Epoch 4:
+Training Loss: 1.810086044260785, Training Accuracy: 36.692%
+Testing Loss: 1.8778901323966681, Testing Accuracy: 33.66%
+##################################
+Child's performance: 32.83
+##################################
+
+Iteration 5:
+Controller's Loss: 127.18738555908203
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.035797238292694, Training Accuracy: 28.412%
+Testing Loss: 1.9558743783578276, Testing Accuracy: 32.61%
+Epoch 1:
+Training Loss: 1.9202952689567208, Training Accuracy: 33.946%
+Testing Loss: 1.8957423788160086, Testing Accuracy: 34.72%
+Epoch 2:
+Training Loss: 1.8713001600757242, Training Accuracy: 35.726%
+Testing Loss: 1.8591082793563605, Testing Accuracy: 36.33%
+Epoch 3:
+Training Loss: 1.8416743640580773, Training Accuracy: 36.96%
+Testing Loss: 1.8427873622193933, Testing Accuracy: 36.27%
+Epoch 4:
+Training Loss: 1.82197540303275, Training Accuracy: 37.626%
+Testing Loss: 1.8274070230193435, Testing Accuracy: 37.21%
+##################################
+Child's performance: 35.428000000000004
+##################################
+
+Iteration 6:
+Controller's Loss: 138.92221069335938
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.053614429769218, Training Accuracy: 27.628%
+Testing Loss: 1.9804053065523506, Testing Accuracy: 31.18%
+Epoch 1:
+Training Loss: 1.94274652161628, Training Accuracy: 32.93%
+Testing Loss: 1.920704594732821, Testing Accuracy: 34.29%
+Epoch 2:
+Training Loss: 1.8970164151528477, Training Accuracy: 34.906%
+Testing Loss: 1.8855229684755206, Testing Accuracy: 35.36%
+Epoch 3:
+Training Loss: 1.8685545680120588, Training Accuracy: 35.97%
+Testing Loss: 1.8758481862850487, Testing Accuracy: 34.85%
+Epoch 4:
+Training Loss: 1.8498527329598367, Training Accuracy: 36.608%
+Testing Loss: 1.8545863868020476, Testing Accuracy: 36.51%
+##################################
+Child's performance: 34.438
+##################################
+
+Iteration 7:
+Controller's Loss: 137.84756469726562
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.195769368791431, Training Accuracy: 19.298%
+Testing Loss: 2.210580440789461, Testing Accuracy: 18.65%
+Epoch 1:
+Training Loss: 2.0631808985229583, Training Accuracy: 25.448%
+Testing Loss: 2.0342438479550182, Testing Accuracy: 25.74%
+Epoch 2:
+Training Loss: 1.9769578638882748, Training Accuracy: 29.18%
+Testing Loss: 1.9802204433387145, Testing Accuracy: 29.18%
+Epoch 3:
+Training Loss: 1.92906408841338, Training Accuracy: 31.318%
+Testing Loss: 1.9639808334384115, Testing Accuracy: 29.44%
+Epoch 4:
+Training Loss: 1.9043321747412347, Training Accuracy: 32.234%
+Testing Loss: 1.9555009312175213, Testing Accuracy: 30.04%
+##################################
+Child's performance: 26.609999999999996
+##################################
+
+Iteration 8:
+Controller's Loss: 101.8378677368164
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 1.933610595889464, Training Accuracy: 30.91%
+Testing Loss: 1.8579664432667196, Testing Accuracy: 34.73%
+Epoch 1:
+Training Loss: 1.8196469728846103, Training Accuracy: 36.258%
+Testing Loss: 1.8440961033150554, Testing Accuracy: 34.86%
+Epoch 2:
+Training Loss: 1.7844858035834135, Training Accuracy: 37.64%
+Testing Loss: 1.8222251101206988, Testing Accuracy: 36.1%
+Epoch 3:
+Training Loss: 1.7640482206145673, Training Accuracy: 38.32%
+Testing Loss: 1.8185817000061273, Testing Accuracy: 36.29%
+Epoch 4:
+Training Loss: 1.7495170428394153, Training Accuracy: 38.882%
+Testing Loss: 1.8215478403192014, Testing Accuracy: 36.16%
+##################################
+Child's performance: 35.628
+##################################
+
+Iteration 9:
+Controller's Loss: 138.22744750976562
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0659354030279817, Training Accuracy: 24.936%
+Testing Loss: 1.9637814440779389, Testing Accuracy: 29.51%
+Epoch 1:
+Training Loss: 1.9191453693953155, Training Accuracy: 31.334%
+Testing Loss: 1.9585696495398879, Testing Accuracy: 29.7%
+Epoch 2:
+Training Loss: 1.8838290218302236, Training Accuracy: 32.85%
+Testing Loss: 1.911053509029001, Testing Accuracy: 31.62%
+Epoch 3:
+Training Loss: 1.8575405626004562, Training Accuracy: 34.024%
+Testing Loss: 1.898756333258748, Testing Accuracy: 32.24%
+Epoch 4:
+Training Loss: 1.8387426658802852, Training Accuracy: 34.708%
+Testing Loss: 1.8983168361075222, Testing Accuracy: 32.14%
+##################################
+Child's performance: 31.041999999999994
+##################################
+
+Iteration 10:
+Controller's Loss: 118.85971069335938
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0362307601827383, Training Accuracy: 28.502%
+Testing Loss: 1.954753966858983, Testing Accuracy: 33.26%
+Epoch 1:
+Training Loss: 1.9218256795196236, Training Accuracy: 33.792%
+Testing Loss: 1.9059564898744226, Testing Accuracy: 33.92%
+Epoch 2:
+Training Loss: 1.8802247094088793, Training Accuracy: 35.484%
+Testing Loss: 1.8721834727287292, Testing Accuracy: 35.94%
+Epoch 3:
+Training Loss: 1.8563094839826226, Training Accuracy: 36.45%
+Testing Loss: 1.8559962524056435, Testing Accuracy: 36.0%
+Epoch 4:
+Training Loss: 1.8417743947570027, Training Accuracy: 36.98%
+Testing Loss: 1.847573084743321, Testing Accuracy: 36.78%
+##################################
+Child's performance: 35.18
+##################################
+
+Iteration 11:
+Controller's Loss: 140.59103393554688
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9319539555555583, Training Accuracy: 31.256%
+Testing Loss: 1.8512662418741732, Testing Accuracy: 34.75%
+Epoch 1:
+Training Loss: 1.8065724381680042, Training Accuracy: 36.416%
+Testing Loss: 1.8207135332621633, Testing Accuracy: 35.93%
+Epoch 2:
+Training Loss: 1.7656917952065916, Training Accuracy: 38.118%
+Testing Loss: 1.811547893178463, Testing Accuracy: 36.95%
+Epoch 3:
+Training Loss: 1.742241326100193, Training Accuracy: 39.0%
+Testing Loss: 1.8045278070496396, Testing Accuracy: 37.2%
+Epoch 4:
+Training Loss: 1.7278930887448043, Training Accuracy: 39.786%
+Testing Loss: 1.8048022441500797, Testing Accuracy: 36.61%
+##################################
+Child's performance: 36.288
+##################################
+
+Iteration 12:
+Controller's Loss: 144.77407836914062
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0738919080102445, Training Accuracy: 26.728%
+Testing Loss: 2.011400065346062, Testing Accuracy: 30.32%
+Epoch 1:
+Training Loss: 1.9951804533743858, Training Accuracy: 30.922%
+Testing Loss: 1.9769385365590453, Testing Accuracy: 32.6%
+Epoch 2:
+Training Loss: 1.96846635122329, Training Accuracy: 32.176%
+Testing Loss: 1.9583953430071472, Testing Accuracy: 32.86%
+Epoch 3:
+Training Loss: 1.9514233090135455, Training Accuracy: 32.838%
+Testing Loss: 1.9499449677094818, Testing Accuracy: 32.39%
+Epoch 4:
+Training Loss: 1.939783369576931, Training Accuracy: 33.144%
+Testing Loss: 1.9427414002589882, Testing Accuracy: 33.01%
+##################################
+Child's performance: 32.236000000000004
+##################################
+
+Iteration 13:
+Controller's Loss: 123.84757995605469
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.053632341081202, Training Accuracy: 27.982%
+Testing Loss: 1.9906916334867477, Testing Accuracy: 31.17%
+Epoch 1:
+Training Loss: 1.9646741459451615, Training Accuracy: 32.38%
+Testing Loss: 1.9419542826920748, Testing Accuracy: 33.73%
+Epoch 2:
+Training Loss: 1.9229690075314045, Training Accuracy: 34.044%
+Testing Loss: 1.9104096751332282, Testing Accuracy: 34.02%
+Epoch 3:
+Training Loss: 1.8960797114220262, Training Accuracy: 34.934%
+Testing Loss: 1.8904516920343042, Testing Accuracy: 35.28%
+Epoch 4:
+Training Loss: 1.8782026747819782, Training Accuracy: 35.756%
+Testing Loss: 1.876873087568581, Testing Accuracy: 35.59%
+##################################
+Child's performance: 33.958000000000006
+##################################
+
+Iteration 14:
+Controller's Loss: 129.87689208984375
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0737651226371527, Training Accuracy: 26.42%
+Testing Loss: 1.9978029991328716, Testing Accuracy: 31.22%
+Epoch 1:
+Training Loss: 1.9676814262904228, Training Accuracy: 31.956%
+Testing Loss: 1.9490632181435823, Testing Accuracy: 32.55%
+Epoch 2:
+Training Loss: 1.9287922140818834, Training Accuracy: 33.322%
+Testing Loss: 1.918790825343877, Testing Accuracy: 33.48%
+Epoch 3:
+Training Loss: 1.905763915029019, Training Accuracy: 34.34%
+Testing Loss: 1.9015604062855245, Testing Accuracy: 33.75%
+Epoch 4:
+Training Loss: 1.8911439664644003, Training Accuracy: 34.782%
+Testing Loss: 1.8886363041885197, Testing Accuracy: 34.74%
+##################################
+Child's performance: 33.148
+##################################
+
+Iteration 15:
+Controller's Loss: 126.78121948242188
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9406612439236044, Training Accuracy: 30.832%
+Testing Loss: 1.8859370325230063, Testing Accuracy: 33.83%
+Epoch 1:
+Training Loss: 1.8359002754415572, Training Accuracy: 35.288%
+Testing Loss: 1.86236909577474, Testing Accuracy: 33.6%
+Epoch 2:
+Training Loss: 1.8024050131157041, Training Accuracy: 36.898%
+Testing Loss: 1.8485884343158454, Testing Accuracy: 34.65%
+Epoch 3:
+Training Loss: 1.7830917521464824, Training Accuracy: 37.77%
+Testing Loss: 1.8185627174366266, Testing Accuracy: 35.94%
+Epoch 4:
+Training Loss: 1.7704998558323086, Training Accuracy: 38.328%
+Testing Loss: 1.8205226281501352, Testing Accuracy: 35.91%
+##################################
+Child's performance: 34.786
+##################################
+
+Iteration 16:
+Controller's Loss: 138.51760864257812
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.151694487169981, Training Accuracy: 21.184%
+Testing Loss: 2.112774656613916, Testing Accuracy: 22.61%
+Epoch 1:
+Training Loss: 2.0022969364065677, Training Accuracy: 27.754%
+Testing Loss: 2.006325789128244, Testing Accuracy: 26.84%
+Epoch 2:
+Training Loss: 1.9571155500461905, Training Accuracy: 29.828%
+Testing Loss: 1.999213330102712, Testing Accuracy: 27.27%
+Epoch 3:
+Training Loss: 1.9322130332621932, Training Accuracy: 30.966%
+Testing Loss: 1.981538240646571, Testing Accuracy: 28.75%
+Epoch 4:
+Training Loss: 1.9147032550492882, Training Accuracy: 31.702%
+Testing Loss: 1.975667910623923, Testing Accuracy: 29.18%
+##################################
+Child's performance: 26.93
+##################################
+
+Iteration 17:
+Controller's Loss: 104.9215087890625
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9720575266215206, Training Accuracy: 30.054%
+Testing Loss: 1.9138768691986798, Testing Accuracy: 32.27%
+Epoch 1:
+Training Loss: 1.8607426105195284, Training Accuracy: 34.594%
+Testing Loss: 1.8731661137141287, Testing Accuracy: 33.41%
+Epoch 2:
+Training Loss: 1.8185773713046312, Training Accuracy: 36.062%
+Testing Loss: 1.8581622056204825, Testing Accuracy: 34.64%
+Epoch 3:
+Training Loss: 1.7946704233247788, Training Accuracy: 37.118%
+Testing Loss: 1.850469106216356, Testing Accuracy: 34.46%
+Epoch 4:
+Training Loss: 1.7789876115847378, Training Accuracy: 37.568%
+Testing Loss: 1.8476171715777367, Testing Accuracy: 34.8%
+##################################
+Child's performance: 33.916
+##################################
+
+Iteration 18:
+Controller's Loss: 135.102294921875
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.051851482317448, Training Accuracy: 27.974%
+Testing Loss: 1.9988824302822352, Testing Accuracy: 29.85%
+Epoch 1:
+Training Loss: 1.9772941117233038, Training Accuracy: 31.694%
+Testing Loss: 1.9711333845317365, Testing Accuracy: 31.71%
+Epoch 2:
+Training Loss: 1.9464071127764881, Training Accuracy: 32.684%
+Testing Loss: 1.9369293116241693, Testing Accuracy: 33.33%
+Epoch 3:
+Training Loss: 1.9265249340312183, Training Accuracy: 33.758%
+Testing Loss: 1.9223427006319165, Testing Accuracy: 33.77%
+Epoch 4:
+Training Loss: 1.914333426399827, Training Accuracy: 34.066%
+Testing Loss: 1.9132461753696204, Testing Accuracy: 34.06%
+##################################
+Child's performance: 32.544
+##################################
+
+Iteration 19:
+Controller's Loss: 128.1685028076172
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0468516259494423, Training Accuracy: 28.006%
+Testing Loss: 1.9772352196961642, Testing Accuracy: 31.4%
+Epoch 1:
+Training Loss: 1.926859001636505, Training Accuracy: 33.812%
+Testing Loss: 1.8983014257252215, Testing Accuracy: 34.89%
+Epoch 2:
+Training Loss: 1.8732431453359126, Training Accuracy: 35.726%
+Testing Loss: 1.8676734265081585, Testing Accuracy: 36.09%
+Epoch 3:
+Training Loss: 1.843217242141217, Training Accuracy: 36.94%
+Testing Loss: 1.8441733949124812, Testing Accuracy: 36.55%
+Epoch 4:
+Training Loss: 1.8250735101112723, Training Accuracy: 37.65%
+Testing Loss: 1.8334582935020327, Testing Accuracy: 36.71%
+##################################
+Child's performance: 35.128
+##################################
+
+Iteration 20:
+Controller's Loss: 137.77371215820312
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.048829254050553, Training Accuracy: 27.556%
+Testing Loss: 1.9903929577052593, Testing Accuracy: 32.1%
+Epoch 1:
+Training Loss: 1.9653175488823653, Training Accuracy: 32.006%
+Testing Loss: 1.9458118368148805, Testing Accuracy: 32.67%
+Epoch 2:
+Training Loss: 1.9262823386739194, Training Accuracy: 33.612%
+Testing Loss: 1.9207506695583463, Testing Accuracy: 33.86%
+Epoch 3:
+Training Loss: 1.900101974941641, Training Accuracy: 34.772%
+Testing Loss: 1.8984864998206497, Testing Accuracy: 34.44%
+Epoch 4:
+Training Loss: 1.8821777161036433, Training Accuracy: 35.66%
+Testing Loss: 1.8831111304685473, Testing Accuracy: 35.6%
+##################################
+Child's performance: 33.733999999999995
+##################################
+
+Iteration 21:
+Controller's Loss: 134.82318115234375
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.2828257550245525, Training Accuracy: 15.424%
+Testing Loss: 2.152964172551036, Testing Accuracy: 21.81%
+Epoch 1:
+Training Loss: 2.111295090148598, Training Accuracy: 23.542%
+Testing Loss: 2.09604714294523, Testing Accuracy: 23.55%
+Epoch 2:
+Training Loss: 2.0437744120658934, Training Accuracy: 26.4%
+Testing Loss: 2.0722162827514112, Testing Accuracy: 25.18%
+Epoch 3:
+Training Loss: 2.0121639543022214, Training Accuracy: 27.834%
+Testing Loss: 2.0595479574389755, Testing Accuracy: 25.26%
+Epoch 4:
+Training Loss: 1.9939554038643836, Training Accuracy: 28.662%
+Testing Loss: 2.0420920508779585, Testing Accuracy: 26.7%
+##################################
+Child's performance: 24.5
+##################################
+
+Iteration 22:
+Controller's Loss: 93.76211547851562
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0105377126986532, Training Accuracy: 27.994%
+Testing Loss: 1.9175855517074465, Testing Accuracy: 31.44%
+Epoch 1:
+Training Loss: 1.8827730420437456, Training Accuracy: 33.402%
+Testing Loss: 1.920221022619307, Testing Accuracy: 31.77%
+Epoch 2:
+Training Loss: 1.8569951710960269, Training Accuracy: 34.478%
+Testing Loss: 1.8997799488812686, Testing Accuracy: 32.66%
+Epoch 3:
+Training Loss: 1.8309231695848704, Training Accuracy: 35.726%
+Testing Loss: 1.8929015362218022, Testing Accuracy: 32.78%
+Epoch 4:
+Training Loss: 1.8150591213937848, Training Accuracy: 36.282%
+Testing Loss: 1.8861355249412357, Testing Accuracy: 33.15%
+##################################
+Child's performance: 32.36
+##################################
+
+Iteration 23:
+Controller's Loss: 125.37108612060547
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0595414326640964, Training Accuracy: 26.862%
+Testing Loss: 1.9838843073606491, Testing Accuracy: 31.98%
+Epoch 1:
+Training Loss: 1.9624308934992551, Training Accuracy: 32.036%
+Testing Loss: 1.954700874207914, Testing Accuracy: 31.32%
+Epoch 2:
+Training Loss: 1.921939991233945, Training Accuracy: 33.656%
+Testing Loss: 1.9083955720931292, Testing Accuracy: 34.55%
+Epoch 3:
+Training Loss: 1.8950359727045893, Training Accuracy: 34.78%
+Testing Loss: 1.90020550160259, Testing Accuracy: 34.24%
+Epoch 4:
+Training Loss: 1.8777681289184094, Training Accuracy: 35.412%
+Testing Loss: 1.8848189169228078, Testing Accuracy: 35.05%
+##################################
+Child's performance: 33.428
+##################################
+
+Iteration 24:
+Controller's Loss: 131.06634521484375
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.09306665131554, Training Accuracy: 24.476%
+Testing Loss: 2.0015318321965636, Testing Accuracy: 28.01%
+Epoch 1:
+Training Loss: 1.9231955070251225, Training Accuracy: 31.558%
+Testing Loss: 1.9522329560492189, Testing Accuracy: 30.93%
+Epoch 2:
+Training Loss: 1.8748946660405397, Training Accuracy: 33.542%
+Testing Loss: 1.9389453687019647, Testing Accuracy: 30.51%
+Epoch 3:
+Training Loss: 1.8483950780861451, Training Accuracy: 34.63%
+Testing Loss: 1.9378137969374656, Testing Accuracy: 31.0%
+Epoch 4:
+Training Loss: 1.8317214889627322, Training Accuracy: 35.306%
+Testing Loss: 1.9256925085034222, Testing Accuracy: 31.48%
+##################################
+Child's performance: 30.386000000000003
+##################################
+
+Iteration 25:
+Controller's Loss: 118.55007934570312
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.119142582810968, Training Accuracy: 23.516%
+Testing Loss: 2.012466385386884, Testing Accuracy: 28.15%
+Epoch 1:
+Training Loss: 1.9417578523912467, Training Accuracy: 31.176%
+Testing Loss: 1.9675551338918507, Testing Accuracy: 29.77%
+Epoch 2:
+Training Loss: 1.887557443515472, Training Accuracy: 33.604%
+Testing Loss: 1.953646581151709, Testing Accuracy: 30.62%
+Epoch 3:
+Training Loss: 1.8574472504604143, Training Accuracy: 34.972%
+Testing Loss: 1.9477680778708308, Testing Accuracy: 30.62%
+Epoch 4:
+Training Loss: 1.8374046121204644, Training Accuracy: 35.662%
+Testing Loss: 1.9424848020073027, Testing Accuracy: 30.85%
+##################################
+Child's performance: 30.002000000000002
+##################################
+
+Iteration 26:
+Controller's Loss: 116.94294738769531
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.118578922839463, Training Accuracy: 24.226%
+Testing Loss: 2.0543912195056677, Testing Accuracy: 27.43%
+Epoch 1:
+Training Loss: 2.03834626314044, Training Accuracy: 28.778%
+Testing Loss: 2.0225550787732005, Testing Accuracy: 29.87%
+Epoch 2:
+Training Loss: 2.015636258276999, Training Accuracy: 29.966%
+Testing Loss: 2.0040118378475307, Testing Accuracy: 30.82%
+Epoch 3:
+Training Loss: 2.0012442404571176, Training Accuracy: 30.778%
+Testing Loss: 1.9953784746333956, Testing Accuracy: 30.66%
+Epoch 4:
+Training Loss: 1.9917170194271208, Training Accuracy: 31.216%
+Testing Loss: 1.984864880605042, Testing Accuracy: 30.98%
+##################################
+Child's performance: 29.951999999999998
+##################################
+
+Iteration 27:
+Controller's Loss: 114.26872253417969
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.052213467102647, Training Accuracy: 27.404%
+Testing Loss: 1.9843644897162915, Testing Accuracy: 31.37%
+Epoch 1:
+Training Loss: 1.9634919656395913, Training Accuracy: 31.97%
+Testing Loss: 1.9500565259650349, Testing Accuracy: 32.61%
+Epoch 2:
+Training Loss: 1.9275417433574795, Training Accuracy: 33.494%
+Testing Loss: 1.9264016150981187, Testing Accuracy: 32.87%
+Epoch 3:
+Training Loss: 1.9049329299877584, Training Accuracy: 34.466%
+Testing Loss: 1.9060654457643629, Testing Accuracy: 34.48%
+Epoch 4:
+Training Loss: 1.8894283300559223, Training Accuracy: 35.084%
+Testing Loss: 1.8911744464829565, Testing Accuracy: 35.02%
+##################################
+Child's performance: 33.269999999999996
+##################################
+
+Iteration 28:
+Controller's Loss: 132.76846313476562
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0868849346110223, Training Accuracy: 26.378%
+Testing Loss: 2.0406854424729945, Testing Accuracy: 29.22%
+Epoch 1:
+Training Loss: 2.002234098854959, Training Accuracy: 31.052%
+Testing Loss: 1.9822923060372473, Testing Accuracy: 32.35%
+Epoch 2:
+Training Loss: 1.9455787450933457, Training Accuracy: 33.488%
+Testing Loss: 1.9375505327448248, Testing Accuracy: 33.71%
+Epoch 3:
+Training Loss: 1.913864358933121, Training Accuracy: 34.808%
+Testing Loss: 1.9171702889792621, Testing Accuracy: 34.28%
+Epoch 4:
+Training Loss: 1.8947006907461583, Training Accuracy: 35.392%
+Testing Loss: 1.9018068394616245, Testing Accuracy: 35.21%
+##################################
+Child's performance: 32.954
+##################################
+
+Iteration 29:
+Controller's Loss: 129.3667755126953
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.030164092374146, Training Accuracy: 28.874%
+Testing Loss: 1.9624266506761312, Testing Accuracy: 31.96%
+Epoch 1:
+Training Loss: 1.9328396228531004, Training Accuracy: 33.518%
+Testing Loss: 1.9169635136067866, Testing Accuracy: 33.95%
+Epoch 2:
+Training Loss: 1.8953431884690375, Training Accuracy: 34.896%
+Testing Loss: 1.8925254420623183, Testing Accuracy: 34.64%
+Epoch 3:
+Training Loss: 1.874723674094379, Training Accuracy: 35.812%
+Testing Loss: 1.8845315017841757, Testing Accuracy: 34.22%
+Epoch 4:
+Training Loss: 1.8625329064293952, Training Accuracy: 36.246%
+Testing Loss: 1.8661020788513123, Testing Accuracy: 35.91%
+##################################
+Child's performance: 34.135999999999996
+##################################
+
+Iteration 30:
+Controller's Loss: 131.16714477539062
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0484236025843026, Training Accuracy: 27.79%
+Testing Loss: 1.9714019461721182, Testing Accuracy: 32.28%
+Epoch 1:
+Training Loss: 1.9350035715940594, Training Accuracy: 33.498%
+Testing Loss: 1.913940503206849, Testing Accuracy: 34.07%
+Epoch 2:
+Training Loss: 1.8877099698603153, Training Accuracy: 35.532%
+Testing Loss: 1.8838559511706232, Testing Accuracy: 35.33%
+Epoch 3:
+Training Loss: 1.8601776354040205, Training Accuracy: 36.434%
+Testing Loss: 1.8591565873757006, Testing Accuracy: 36.07%
+Epoch 4:
+Training Loss: 1.842506442066431, Training Accuracy: 37.074%
+Testing Loss: 1.8475585360772908, Testing Accuracy: 37.0%
+##################################
+Child's performance: 34.95
+##################################
+
+Iteration 31:
+Controller's Loss: 136.0767059326172
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9232178900473564, Training Accuracy: 31.676%
+Testing Loss: 1.8447639093779027, Testing Accuracy: 35.06%
+Epoch 1:
+Training Loss: 1.8076196117763967, Training Accuracy: 36.574%
+Testing Loss: 1.8212573789756745, Testing Accuracy: 36.11%
+Epoch 2:
+Training Loss: 1.7755403937847913, Training Accuracy: 37.93%
+Testing Loss: 1.8218487580753864, Testing Accuracy: 36.3%
+Epoch 3:
+Training Loss: 1.7566563122968375, Training Accuracy: 38.904%
+Testing Loss: 1.8108164584986866, Testing Accuracy: 36.69%
+Epoch 4:
+Training Loss: 1.7432445003197343, Training Accuracy: 39.412%
+Testing Loss: 1.8037770694591104, Testing Accuracy: 36.93%
+##################################
+Child's performance: 36.218
+##################################
+
+Iteration 32:
+Controller's Loss: 141.72991943359375
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.1456832808280737, Training Accuracy: 22.284%
+Testing Loss: 2.0188898715242742, Testing Accuracy: 28.19%
+Epoch 1:
+Training Loss: 1.9666551510693133, Training Accuracy: 30.442%
+Testing Loss: 2.0017395193386824, Testing Accuracy: 29.57%
+Epoch 2:
+Training Loss: 1.9090810128314792, Training Accuracy: 32.868%
+Testing Loss: 1.9676645776703954, Testing Accuracy: 29.75%
+Epoch 3:
+Training Loss: 1.8763078808567115, Training Accuracy: 34.116%
+Testing Loss: 1.927823865236342, Testing Accuracy: 30.98%
+Epoch 4:
+Training Loss: 1.8576993853536061, Training Accuracy: 34.894%
+Testing Loss: 1.918714484908618, Testing Accuracy: 31.93%
+##################################
+Child's performance: 30.084000000000003
+##################################
+
+Iteration 33:
+Controller's Loss: 115.19151306152344
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.067727805103958, Training Accuracy: 27.378%
+Testing Loss: 2.0189103564158084, Testing Accuracy: 30.23%
+Epoch 1:
+Training Loss: 1.9906267449128627, Training Accuracy: 31.382%
+Testing Loss: 1.9717752390056849, Testing Accuracy: 32.15%
+Epoch 2:
+Training Loss: 1.9603920745411516, Training Accuracy: 32.57%
+Testing Loss: 1.9518632716447115, Testing Accuracy: 33.76%
+Epoch 3:
+Training Loss: 1.9410450710475444, Training Accuracy: 33.15%
+Testing Loss: 1.939962676346302, Testing Accuracy: 33.62%
+Epoch 4:
+Training Loss: 1.9289839802370965, Training Accuracy: 33.762%
+Testing Loss: 1.9305517701357604, Testing Accuracy: 33.89%
+##################################
+Child's performance: 32.73
+##################################
+
+Iteration 34:
+Controller's Loss: 128.08953857421875
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9152048896580935, Training Accuracy: 31.696%
+Testing Loss: 1.854617243809253, Testing Accuracy: 34.88%
+Epoch 1:
+Training Loss: 1.7966351301998644, Training Accuracy: 37.022%
+Testing Loss: 1.8209541430477052, Testing Accuracy: 36.38%
+Epoch 2:
+Training Loss: 1.7597752412099392, Training Accuracy: 38.54%
+Testing Loss: 1.7967384576965124, Testing Accuracy: 36.68%
+Epoch 3:
+Training Loss: 1.7383264678358286, Training Accuracy: 39.318%
+Testing Loss: 1.7911012692067771, Testing Accuracy: 36.91%
+Epoch 4:
+Training Loss: 1.724559866726622, Training Accuracy: 39.888%
+Testing Loss: 1.7852716438625007, Testing Accuracy: 37.15%
+##################################
+Child's performance: 36.4
+##################################
+
+Iteration 35:
+Controller's Loss: 141.24667358398438
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 1.984658335993886, Training Accuracy: 28.96%
+Testing Loss: 1.918016403851658, Testing Accuracy: 32.23%
+Epoch 1:
+Training Loss: 1.8724955853202938, Training Accuracy: 34.172%
+Testing Loss: 1.9005773623265325, Testing Accuracy: 32.67%
+Epoch 2:
+Training Loss: 1.8403737260702253, Training Accuracy: 35.468%
+Testing Loss: 1.8932472931951285, Testing Accuracy: 33.46%
+Epoch 3:
+Training Loss: 1.8221226213748754, Training Accuracy: 36.274%
+Testing Loss: 1.888440120728314, Testing Accuracy: 33.44%
+Epoch 4:
+Training Loss: 1.810948110460043, Training Accuracy: 36.754%
+Testing Loss: 1.8874740271516144, Testing Accuracy: 33.57%
+##################################
+Child's performance: 33.074
+##################################
+
+Iteration 36:
+Controller's Loss: 129.05618286132812
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0737244387372584, Training Accuracy: 25.208%
+Testing Loss: 1.9875769368052483, Testing Accuracy: 28.74%
+Epoch 1:
+Training Loss: 1.9001451697183027, Training Accuracy: 32.414%
+Testing Loss: 1.9125896706515924, Testing Accuracy: 32.11%
+Epoch 2:
+Training Loss: 1.8548472719767317, Training Accuracy: 34.268%
+Testing Loss: 1.9036143600302748, Testing Accuracy: 32.76%
+Epoch 3:
+Training Loss: 1.8313362564389035, Training Accuracy: 35.102%
+Testing Loss: 1.898519160342589, Testing Accuracy: 32.67%
+Epoch 4:
+Training Loss: 1.8166468546354027, Training Accuracy: 35.764%
+Testing Loss: 1.8919083188182675, Testing Accuracy: 33.43%
+##################################
+Child's performance: 31.941999999999997
+##################################
+
+Iteration 37:
+Controller's Loss: 124.60560607910156
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9267105436477066, Training Accuracy: 31.366%
+Testing Loss: 1.8620633998733014, Testing Accuracy: 34.45%
+Epoch 1:
+Training Loss: 1.8106399302260578, Training Accuracy: 36.286%
+Testing Loss: 1.8338520125532523, Testing Accuracy: 35.31%
+Epoch 2:
+Training Loss: 1.774270408708714, Training Accuracy: 37.846%
+Testing Loss: 1.8201612799156457, Testing Accuracy: 36.15%
+Epoch 3:
+Training Loss: 1.7523677657406778, Training Accuracy: 38.826%
+Testing Loss: 1.8116119985248893, Testing Accuracy: 36.16%
+Epoch 4:
+Training Loss: 1.7380838897351176, Training Accuracy: 39.466%
+Testing Loss: 1.8037792584639043, Testing Accuracy: 36.58%
+##################################
+Child's performance: 35.73
+##################################
+
+Iteration 38:
+Controller's Loss: 138.655517578125
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0220455034634472, Training Accuracy: 29.186%
+Testing Loss: 1.9445430335596203, Testing Accuracy: 32.56%
+Epoch 1:
+Training Loss: 1.9002442086660862, Training Accuracy: 34.48%
+Testing Loss: 1.8697667716965078, Testing Accuracy: 34.67%
+Epoch 2:
+Training Loss: 1.8359026702134311, Training Accuracy: 36.868%
+Testing Loss: 1.8170094454169274, Testing Accuracy: 37.15%
+Epoch 3:
+Training Loss: 1.7975948090042173, Training Accuracy: 38.186%
+Testing Loss: 1.7866108510807157, Testing Accuracy: 37.86%
+Epoch 4:
+Training Loss: 1.7749740621868522, Training Accuracy: 38.922%
+Testing Loss: 1.7712129452198744, Testing Accuracy: 38.17%
+##################################
+Child's performance: 36.08200000000001
+##################################
+
+Iteration 39:
+Controller's Loss: 136.65228271484375
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0589663163402676, Training Accuracy: 27.844%
+Testing Loss: 2.0011936022624375, Testing Accuracy: 30.51%
+Epoch 1:
+Training Loss: 1.9837087720505893, Training Accuracy: 31.53%
+Testing Loss: 1.9646287416383623, Testing Accuracy: 32.24%
+Epoch 2:
+Training Loss: 1.955031012696922, Training Accuracy: 32.462%
+Testing Loss: 1.9446935292109848, Testing Accuracy: 32.96%
+Epoch 3:
+Training Loss: 1.93821026501894, Training Accuracy: 33.264%
+Testing Loss: 1.931862616354227, Testing Accuracy: 33.49%
+Epoch 4:
+Training Loss: 1.9270390910317003, Training Accuracy: 33.576%
+Testing Loss: 1.9240755087807775, Testing Accuracy: 33.5%
+##################################
+Child's performance: 32.540000000000006
+##################################
+
+Iteration 40:
+Controller's Loss: 125.02131652832031
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0654353539407255, Training Accuracy: 26.7%
+Testing Loss: 1.9757541346535086, Testing Accuracy: 30.98%
+Epoch 1:
+Training Loss: 1.935112987190783, Training Accuracy: 32.896%
+Testing Loss: 1.9053735641241074, Testing Accuracy: 34.03%
+Epoch 2:
+Training Loss: 1.8832974568486214, Training Accuracy: 35.164%
+Testing Loss: 1.8681572777435183, Testing Accuracy: 35.87%
+Epoch 3:
+Training Loss: 1.8511991251510382, Training Accuracy: 36.372%
+Testing Loss: 1.8463244535431267, Testing Accuracy: 36.5%
+Epoch 4:
+Training Loss: 1.8307537121985853, Training Accuracy: 37.314%
+Testing Loss: 1.8311325355440378, Testing Accuracy: 37.29%
+##################################
+Child's performance: 34.934
+##################################
+
+Iteration 41:
+Controller's Loss: 133.49478149414062
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0597949157631397, Training Accuracy: 27.522%
+Testing Loss: 2.0016092353850605, Testing Accuracy: 29.83%
+Epoch 1:
+Training Loss: 1.9794985821557045, Training Accuracy: 31.456%
+Testing Loss: 1.9591251316428184, Testing Accuracy: 32.84%
+Epoch 2:
+Training Loss: 1.9479294890408219, Training Accuracy: 32.836%
+Testing Loss: 1.9391570962384344, Testing Accuracy: 33.28%
+Epoch 3:
+Training Loss: 1.9282354436805844, Training Accuracy: 33.638%
+Testing Loss: 1.9346383987210691, Testing Accuracy: 32.21%
+Epoch 4:
+Training Loss: 1.9151145574422181, Training Accuracy: 34.016%
+Testing Loss: 1.914294669151306, Testing Accuracy: 34.62%
+##################################
+Child's performance: 32.556
+##################################
+
+Iteration 42:
+Controller's Loss: 128.21743774414062
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.2046567599068583, Training Accuracy: 19.532%
+Testing Loss: 2.133629892358184, Testing Accuracy: 22.36%
+Epoch 1:
+Training Loss: 2.0768420452360807, Training Accuracy: 25.426%
+Testing Loss: 2.1001351068627088, Testing Accuracy: 24.59%
+Epoch 2:
+Training Loss: 2.0259585281530583, Training Accuracy: 27.668%
+Testing Loss: 2.074714527130872, Testing Accuracy: 25.26%
+Epoch 3:
+Training Loss: 1.999897939434778, Training Accuracy: 28.818%
+Testing Loss: 2.077812146967277, Testing Accuracy: 25.68%
+Epoch 4:
+Training Loss: 1.9838434201351554, Training Accuracy: 29.626%
+Testing Loss: 2.0505463879974557, Testing Accuracy: 26.1%
+##################################
+Child's performance: 24.798000000000002
+##################################
+
+Iteration 43:
+Controller's Loss: 95.01275634765625
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0353700665056706, Training Accuracy: 29.048%
+Testing Loss: 1.979258264552057, Testing Accuracy: 32.0%
+Epoch 1:
+Training Loss: 1.9461686063462496, Training Accuracy: 33.186%
+Testing Loss: 1.9195907993987202, Testing Accuracy: 33.72%
+Epoch 2:
+Training Loss: 1.899811766334325, Training Accuracy: 34.546%
+Testing Loss: 1.8875660456195473, Testing Accuracy: 34.64%
+Epoch 3:
+Training Loss: 1.8726721762163938, Training Accuracy: 35.616%
+Testing Loss: 1.8717519104510545, Testing Accuracy: 34.69%
+Epoch 4:
+Training Loss: 1.8557574598827957, Training Accuracy: 36.314%
+Testing Loss: 1.8559271260142327, Testing Accuracy: 35.51%
+##################################
+Child's performance: 34.112
+##################################
+
+Iteration 44:
+Controller's Loss: 130.4601593017578
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.167330909715295, Training Accuracy: 21.298%
+Testing Loss: 2.1035646005518736, Testing Accuracy: 23.82%
+Epoch 1:
+Training Loss: 2.0308867063134164, Training Accuracy: 27.342%
+Testing Loss: 2.0442417214944957, Testing Accuracy: 26.28%
+Epoch 2:
+Training Loss: 1.9865632473675907, Training Accuracy: 29.272%
+Testing Loss: 2.0317663773059844, Testing Accuracy: 26.91%
+Epoch 3:
+Training Loss: 1.9606468140637874, Training Accuracy: 30.446%
+Testing Loss: 2.0290236539319157, Testing Accuracy: 27.05%
+Epoch 4:
+Training Loss: 1.9438027421315014, Training Accuracy: 31.32%
+Testing Loss: 2.036795666190982, Testing Accuracy: 26.78%
+##################################
+Child's performance: 26.168
+##################################
+
+Iteration 45:
+Controller's Loss: 100.24797058105469
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.1037387029895185, Training Accuracy: 25.316%
+Testing Loss: 2.018315625433624, Testing Accuracy: 30.22%
+Epoch 1:
+Training Loss: 1.9828023611342906, Training Accuracy: 31.854%
+Testing Loss: 1.9578765147000552, Testing Accuracy: 32.64%
+Epoch 2:
+Training Loss: 1.9363908452151717, Training Accuracy: 33.612%
+Testing Loss: 1.9265861556753516, Testing Accuracy: 34.14%
+Epoch 3:
+Training Loss: 1.9101638471556455, Training Accuracy: 34.58%
+Testing Loss: 1.9073575898483395, Testing Accuracy: 34.91%
+Epoch 4:
+Training Loss: 1.894388577862233, Training Accuracy: 35.256%
+Testing Loss: 1.8967447883829474, Testing Accuracy: 34.93%
+##################################
+Child's performance: 33.368
+##################################
+
+Iteration 46:
+Controller's Loss: 128.58876037597656
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9344853810410947, Training Accuracy: 31.056%
+Testing Loss: 1.842668332323432, Testing Accuracy: 35.47%
+Epoch 1:
+Training Loss: 1.8067007838566602, Training Accuracy: 36.374%
+Testing Loss: 1.8219236282743514, Testing Accuracy: 36.13%
+Epoch 2:
+Training Loss: 1.7694278867590427, Training Accuracy: 37.996%
+Testing Loss: 1.8114281212821604, Testing Accuracy: 36.52%
+Epoch 3:
+Training Loss: 1.7480211169030517, Training Accuracy: 38.848%
+Testing Loss: 1.804706337030977, Testing Accuracy: 36.59%
+Epoch 4:
+Training Loss: 1.7343569312997162, Training Accuracy: 39.458%
+Testing Loss: 1.7992760389897973, Testing Accuracy: 37.26%
+##################################
+Child's performance: 36.394
+##################################
+
+Iteration 47:
+Controller's Loss: 144.96298217773438
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0802007899695636, Training Accuracy: 26.684%
+Testing Loss: 2.0358601392507554, Testing Accuracy: 28.66%
+Epoch 1:
+Training Loss: 2.006987206417322, Training Accuracy: 30.788%
+Testing Loss: 1.986908450871706, Testing Accuracy: 31.89%
+Epoch 2:
+Training Loss: 1.9564587393265962, Training Accuracy: 32.876%
+Testing Loss: 1.9469278626441955, Testing Accuracy: 32.71%
+Epoch 3:
+Training Loss: 1.9192521333289145, Training Accuracy: 34.336%
+Testing Loss: 1.914402988667786, Testing Accuracy: 35.01%
+Epoch 4:
+Training Loss: 1.89380765347898, Training Accuracy: 35.446%
+Testing Loss: 1.8991531348094344, Testing Accuracy: 35.02%
+##################################
+Child's performance: 32.658
+##################################
+
+Iteration 48:
+Controller's Loss: 130.5067596435547
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.203695601993799, Training Accuracy: 19.178%
+Testing Loss: 2.1420066106170417, Testing Accuracy: 22.69%
+Epoch 1:
+Training Loss: 2.1213393300785124, Training Accuracy: 23.02%
+Testing Loss: 2.160741196875274, Testing Accuracy: 20.78%
+Epoch 2:
+Training Loss: 2.063029460228309, Training Accuracy: 25.242%
+Testing Loss: 2.061569660519436, Testing Accuracy: 24.84%
+Epoch 3:
+Training Loss: 2.0330626621292534, Training Accuracy: 26.66%
+Testing Loss: 2.043877028211951, Testing Accuracy: 26.41%
+Epoch 4:
+Training Loss: 2.0170070083842426, Training Accuracy: 27.516%
+Testing Loss: 2.0504688543379306, Testing Accuracy: 26.1%
+##################################
+Child's performance: 24.163999999999998
+##################################
+
+Iteration 49:
+Controller's Loss: 92.52391052246094
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.047686286692023, Training Accuracy: 27.408%
+Testing Loss: 1.9535651443019508, Testing Accuracy: 32.16%
+Epoch 1:
+Training Loss: 1.9136237571263313, Training Accuracy: 34.122%
+Testing Loss: 1.8779447849869728, Testing Accuracy: 35.78%
+Epoch 2:
+Training Loss: 1.8478696011158824, Training Accuracy: 36.716%
+Testing Loss: 1.8308967012345791, Testing Accuracy: 36.81%
+Epoch 3:
+Training Loss: 1.8096104942077398, Training Accuracy: 38.188%
+Testing Loss: 1.805020627759397, Testing Accuracy: 38.25%
+Epoch 4:
+Training Loss: 1.7856677288401126, Training Accuracy: 38.982%
+Testing Loss: 1.7902966589346527, Testing Accuracy: 38.36%
+##################################
+Child's performance: 36.272000000000006
+##################################
+
+Iteration 50:
+Controller's Loss: 138.54554748535156
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.945891911265254, Training Accuracy: 31.16%
+Testing Loss: 1.8747091714806854, Testing Accuracy: 34.06%
+Epoch 1:
+Training Loss: 1.8217927136981487, Training Accuracy: 36.18%
+Testing Loss: 1.8485385206457228, Testing Accuracy: 34.94%
+Epoch 2:
+Training Loss: 1.7796879359500855, Training Accuracy: 37.948%
+Testing Loss: 1.8346779265154154, Testing Accuracy: 35.4%
+Epoch 3:
+Training Loss: 1.75558173312366, Training Accuracy: 38.67%
+Testing Loss: 1.8296567789569498, Testing Accuracy: 35.56%
+Epoch 4:
+Training Loss: 1.7404959419522434, Training Accuracy: 39.398%
+Testing Loss: 1.8235970521748066, Testing Accuracy: 35.73%
+##################################
+Child's performance: 35.138
+##################################
+
+Iteration 51:
+Controller's Loss: 139.96829223632812
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.074902388894558, Training Accuracy: 27.078%
+Testing Loss: 2.0224436515316366, Testing Accuracy: 30.36%
+Epoch 1:
+Training Loss: 1.9901793042621017, Training Accuracy: 31.238%
+Testing Loss: 1.9690302026122808, Testing Accuracy: 32.2%
+Epoch 2:
+Training Loss: 1.954154847010672, Training Accuracy: 32.676%
+Testing Loss: 1.9473899648830295, Testing Accuracy: 32.46%
+Epoch 3:
+Training Loss: 1.932730835542232, Training Accuracy: 33.596%
+Testing Loss: 1.927590066677332, Testing Accuracy: 33.33%
+Epoch 4:
+Training Loss: 1.918886415104568, Training Accuracy: 34.086%
+Testing Loss: 1.9159054606959223, Testing Accuracy: 34.03%
+##################################
+Child's performance: 32.476000000000006
+##################################
+
+Iteration 52:
+Controller's Loss: 126.29524993896484
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9419442748865485, Training Accuracy: 30.836%
+Testing Loss: 1.8724679735280574, Testing Accuracy: 33.91%
+Epoch 1:
+Training Loss: 1.824096239237711, Training Accuracy: 36.126%
+Testing Loss: 1.8459755704574288, Testing Accuracy: 35.51%
+Epoch 2:
+Training Loss: 1.7863279538983852, Training Accuracy: 37.452%
+Testing Loss: 1.8352682732332497, Testing Accuracy: 36.44%
+Epoch 3:
+Training Loss: 1.7628834389287977, Training Accuracy: 38.274%
+Testing Loss: 1.831254641437158, Testing Accuracy: 36.17%
+Epoch 4:
+Training Loss: 1.748123624274358, Training Accuracy: 38.958%
+Testing Loss: 1.8285192492049187, Testing Accuracy: 36.42%
+##################################
+Child's performance: 35.69
+##################################
+
+Iteration 53:
+Controller's Loss: 139.24917602539062
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0579485736235976, Training Accuracy: 27.672%
+Testing Loss: 1.9692587696149946, Testing Accuracy: 32.09%
+Epoch 1:
+Training Loss: 1.9303117854455114, Training Accuracy: 33.676%
+Testing Loss: 1.8874707156032324, Testing Accuracy: 34.87%
+Epoch 2:
+Training Loss: 1.8639546092790364, Training Accuracy: 35.952%
+Testing Loss: 1.8404479249924421, Testing Accuracy: 36.45%
+Epoch 3:
+Training Loss: 1.8259196739178896, Training Accuracy: 37.502%
+Testing Loss: 1.8142477960377932, Testing Accuracy: 37.19%
+Epoch 4:
+Training Loss: 1.8023262652294338, Training Accuracy: 38.254%
+Testing Loss: 1.7967674173213541, Testing Accuracy: 37.89%
+##################################
+Child's performance: 35.698
+##################################
+
+Iteration 54:
+Controller's Loss: 135.1986846923828
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.189984337772131, Training Accuracy: 19.874%
+Testing Loss: 2.0629696609310804, Testing Accuracy: 24.94%
+Epoch 1:
+Training Loss: 2.011673553899862, Training Accuracy: 27.804%
+Testing Loss: 2.078043512288667, Testing Accuracy: 25.54%
+Epoch 2:
+Training Loss: 1.9625540154828132, Training Accuracy: 29.916%
+Testing Loss: 2.003768668598309, Testing Accuracy: 27.68%
+Epoch 3:
+Training Loss: 1.9348152689687164, Training Accuracy: 31.168%
+Testing Loss: 1.9983978534385562, Testing Accuracy: 27.86%
+Epoch 4:
+Training Loss: 1.917803474637419, Training Accuracy: 31.76%
+Testing Loss: 1.9836047011580318, Testing Accuracy: 28.25%
+##################################
+Child's performance: 26.853999999999996
+##################################
+
+Iteration 55:
+Controller's Loss: 101.86494445800781
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 1.949948224389106, Training Accuracy: 30.35%
+Testing Loss: 1.8680268465399743, Testing Accuracy: 34.26%
+Epoch 1:
+Training Loss: 1.8081666191883012, Training Accuracy: 36.538%
+Testing Loss: 1.8383673188857734, Testing Accuracy: 35.73%
+Epoch 2:
+Training Loss: 1.7675258796939999, Training Accuracy: 38.062%
+Testing Loss: 1.832317564022541, Testing Accuracy: 35.67%
+Epoch 3:
+Training Loss: 1.743916785599403, Training Accuracy: 39.064%
+Testing Loss: 1.8254592603936792, Testing Accuracy: 36.04%
+Epoch 4:
+Training Loss: 1.7286669811606408, Training Accuracy: 39.812%
+Testing Loss: 1.8205620067037642, Testing Accuracy: 36.48%
+##################################
+Child's performance: 35.635999999999996
+##################################
+
+Iteration 56:
+Controller's Loss: 139.04193115234375
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 2.056737173610851, Training Accuracy: 25.852%
+Testing Loss: 1.9404948820784689, Testing Accuracy: 31.23%
+Epoch 1:
+Training Loss: 1.8903957592353224, Training Accuracy: 32.938%
+Testing Loss: 1.9024662311315537, Testing Accuracy: 32.64%
+Epoch 2:
+Training Loss: 1.8344906688025593, Training Accuracy: 35.424%
+Testing Loss: 1.8767579424083234, Testing Accuracy: 33.7%
+Epoch 3:
+Training Loss: 1.804812445102334, Training Accuracy: 36.714%
+Testing Loss: 1.8719003701686858, Testing Accuracy: 33.64%
+Epoch 4:
+Training Loss: 1.7873523425940425, Training Accuracy: 37.576%
+Testing Loss: 1.861074073702097, Testing Accuracy: 34.03%
+##################################
+Child's performance: 33.048
+##################################
+
+Iteration 57:
+Controller's Loss: 128.0260009765625
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.093160956377089, Training Accuracy: 25.58%
+Testing Loss: 2.0431037850901483, Testing Accuracy: 27.8%
+Epoch 1:
+Training Loss: 2.0309772222563622, Training Accuracy: 29.108%
+Testing Loss: 2.0225446256652475, Testing Accuracy: 29.8%
+Epoch 2:
+Training Loss: 2.011767520532608, Training Accuracy: 30.244%
+Testing Loss: 2.0037770887494086, Testing Accuracy: 31.2%
+Epoch 3:
+Training Loss: 1.9974396669626235, Training Accuracy: 30.956%
+Testing Loss: 1.9920677389994264, Testing Accuracy: 30.71%
+Epoch 4:
+Training Loss: 1.9874044510170816, Training Accuracy: 31.396%
+Testing Loss: 1.9819945846691727, Testing Accuracy: 31.64%
+##################################
+Child's performance: 30.229999999999997
+##################################
+
+Iteration 58:
+Controller's Loss: 115.31843566894531
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.086214383405447, Training Accuracy: 25.692%
+Testing Loss: 2.027742881847918, Testing Accuracy: 28.8%
+Epoch 1:
+Training Loss: 2.0061101171100137, Training Accuracy: 30.192%
+Testing Loss: 1.9958198143899442, Testing Accuracy: 30.21%
+Epoch 2:
+Training Loss: 1.9775751504352688, Training Accuracy: 31.514%
+Testing Loss: 1.9700996182247996, Testing Accuracy: 31.74%
+Epoch 3:
+Training Loss: 1.9588276570352912, Training Accuracy: 32.466%
+Testing Loss: 1.9539754970312118, Testing Accuracy: 32.36%
+Epoch 4:
+Training Loss: 1.945568710897714, Training Accuracy: 32.87%
+Testing Loss: 1.9439771274268627, Testing Accuracy: 32.26%
+##################################
+Child's performance: 31.074
+##################################
+
+Iteration 59:
+Controller's Loss: 121.94837951660156
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.043682493827045, Training Accuracy: 28.368%
+Testing Loss: 1.9843577319934964, Testing Accuracy: 31.22%
+Epoch 1:
+Training Loss: 1.961983471825719, Training Accuracy: 32.136%
+Testing Loss: 1.944619252474606, Testing Accuracy: 32.85%
+Epoch 2:
+Training Loss: 1.9315988486656546, Training Accuracy: 33.208%
+Testing Loss: 1.9230885449036956, Testing Accuracy: 33.28%
+Epoch 3:
+Training Loss: 1.9136776580949129, Training Accuracy: 33.834%
+Testing Loss: 1.912008593954146, Testing Accuracy: 34.34%
+Epoch 4:
+Training Loss: 1.9025760456825793, Training Accuracy: 34.412%
+Testing Loss: 1.9022399855852128, Testing Accuracy: 34.15%
+##################################
+Child's performance: 33.168
+##################################
+
+Iteration 60:
+Controller's Loss: 127.44558715820312
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9890433778068424, Training Accuracy: 30.162%
+Testing Loss: 1.8882644354879856, Testing Accuracy: 35.12%
+Epoch 1:
+Training Loss: 1.8448388325464726, Training Accuracy: 36.858%
+Testing Loss: 1.819749881772697, Testing Accuracy: 37.27%
+Epoch 2:
+Training Loss: 1.7954425218846648, Training Accuracy: 38.492%
+Testing Loss: 1.7925188544161619, Testing Accuracy: 38.34%
+Epoch 3:
+Training Loss: 1.7693299973700196, Training Accuracy: 39.656%
+Testing Loss: 1.776254942677915, Testing Accuracy: 39.42%
+Epoch 4:
+Training Loss: 1.753501873971969, Training Accuracy: 40.086%
+Testing Loss: 1.766068141939491, Testing Accuracy: 39.46%
+##################################
+Child's performance: 37.922000000000004
+##################################
+
+Iteration 61:
+Controller's Loss: 146.05911254882812
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0766314286887644, Training Accuracy: 26.37%
+Testing Loss: 2.0256905116319657, Testing Accuracy: 28.49%
+Epoch 1:
+Training Loss: 1.9991085417026282, Training Accuracy: 30.724%
+Testing Loss: 1.97977755536139, Testing Accuracy: 31.71%
+Epoch 2:
+Training Loss: 1.963021659554839, Training Accuracy: 32.258%
+Testing Loss: 1.9536170291990043, Testing Accuracy: 32.46%
+Epoch 3:
+Training Loss: 1.937859076717198, Training Accuracy: 33.224%
+Testing Loss: 1.9431975196145475, Testing Accuracy: 32.89%
+Epoch 4:
+Training Loss: 1.9211103525942563, Training Accuracy: 33.894%
+Testing Loss: 1.918799335668981, Testing Accuracy: 33.53%
+##################################
+Child's performance: 31.815999999999995
+##################################
+
+Iteration 62:
+Controller's Loss: 123.73286437988281
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.054870076876283, Training Accuracy: 27.808%
+Testing Loss: 1.9909061558634042, Testing Accuracy: 30.79%
+Epoch 1:
+Training Loss: 1.9592609846612812, Training Accuracy: 32.402%
+Testing Loss: 1.9266762565329671, Testing Accuracy: 33.88%
+Epoch 2:
+Training Loss: 1.902368982090205, Training Accuracy: 34.486%
+Testing Loss: 1.886084441936761, Testing Accuracy: 34.83%
+Epoch 3:
+Training Loss: 1.8647715443192423, Training Accuracy: 35.932%
+Testing Loss: 1.8566063391409815, Testing Accuracy: 36.0%
+Epoch 4:
+Training Loss: 1.841671108226627, Training Accuracy: 36.598%
+Testing Loss: 1.8388313450776042, Testing Accuracy: 36.31%
+##################################
+Child's performance: 34.362
+##################################
+
+Iteration 63:
+Controller's Loss: 130.15487670898438
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9937918221686781, Training Accuracy: 28.848%
+Testing Loss: 1.9118211065098643, Testing Accuracy: 32.8%
+Epoch 1:
+Training Loss: 1.8769487609389424, Training Accuracy: 33.86%
+Testing Loss: 1.8980823830530047, Testing Accuracy: 33.09%
+Epoch 2:
+Training Loss: 1.8437255693426728, Training Accuracy: 35.126%
+Testing Loss: 1.8826977181434632, Testing Accuracy: 33.87%
+Epoch 3:
+Training Loss: 1.8247745120852814, Training Accuracy: 35.95%
+Testing Loss: 1.8740601995736361, Testing Accuracy: 34.35%
+Epoch 4:
+Training Loss: 1.8125050135184824, Training Accuracy: 36.786%
+Testing Loss: 1.8705140640102327, Testing Accuracy: 34.2%
+##################################
+Child's performance: 33.662
+##################################
+
+Iteration 64:
+Controller's Loss: 131.66549682617188
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0537891041138767, Training Accuracy: 27.836%
+Testing Loss: 1.990197245244682, Testing Accuracy: 30.36%
+Epoch 1:
+Training Loss: 1.946272886263132, Training Accuracy: 32.834%
+Testing Loss: 1.9141507929712533, Testing Accuracy: 34.09%
+Epoch 2:
+Training Loss: 1.8871994579283893, Training Accuracy: 35.154%
+Testing Loss: 1.8682189058631657, Testing Accuracy: 35.51%
+Epoch 3:
+Training Loss: 1.8499657177332043, Training Accuracy: 36.408%
+Testing Loss: 1.8379694352820515, Testing Accuracy: 36.34%
+Epoch 4:
+Training Loss: 1.8266982389515638, Training Accuracy: 37.214%
+Testing Loss: 1.8211635002434254, Testing Accuracy: 36.8%
+##################################
+Child's performance: 34.620000000000005
+##################################
+
+Iteration 65:
+Controller's Loss: 131.13381958007812
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.028497378605306, Training Accuracy: 29.248%
+Testing Loss: 1.9645762427784503, Testing Accuracy: 31.54%
+Epoch 1:
+Training Loss: 1.91775028564319, Training Accuracy: 34.19%
+Testing Loss: 1.9019577839441597, Testing Accuracy: 33.74%
+Epoch 2:
+Training Loss: 1.8752457574594021, Training Accuracy: 35.616%
+Testing Loss: 1.8716197959050536, Testing Accuracy: 35.31%
+Epoch 3:
+Training Loss: 1.8511288906778396, Training Accuracy: 36.504%
+Testing Loss: 1.8551506897076964, Testing Accuracy: 36.7%
+Epoch 4:
+Training Loss: 1.835736904401332, Training Accuracy: 37.082%
+Testing Loss: 1.8484420633584262, Testing Accuracy: 36.81%
+##################################
+Child's performance: 34.82000000000001
+##################################
+
+Iteration 66:
+Controller's Loss: 139.46005249023438
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0421438785141706, Training Accuracy: 28.088%
+Testing Loss: 1.9640690417021514, Testing Accuracy: 32.0%
+Epoch 1:
+Training Loss: 1.9307915084558724, Training Accuracy: 33.36%
+Testing Loss: 1.912722150427103, Testing Accuracy: 33.5%
+Epoch 2:
+Training Loss: 1.8811692385685443, Training Accuracy: 35.076%
+Testing Loss: 1.870106028608978, Testing Accuracy: 35.76%
+Epoch 3:
+Training Loss: 1.8510650907170774, Training Accuracy: 36.346%
+Testing Loss: 1.851717570452392, Testing Accuracy: 36.16%
+Epoch 4:
+Training Loss: 1.833786179216206, Training Accuracy: 37.0%
+Testing Loss: 1.8378301973417401, Testing Accuracy: 36.46%
+##################################
+Child's performance: 34.775999999999996
+##################################
+
+Iteration 67:
+Controller's Loss: 135.38311767578125
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0022899008905886, Training Accuracy: 29.778%
+Testing Loss: 1.9028178244963287, Testing Accuracy: 33.13%
+Epoch 1:
+Training Loss: 1.8539056162326037, Training Accuracy: 35.932%
+Testing Loss: 1.8323363870941103, Testing Accuracy: 36.53%
+Epoch 2:
+Training Loss: 1.8018877726307512, Training Accuracy: 37.816%
+Testing Loss: 1.7909569009937345, Testing Accuracy: 38.0%
+Epoch 3:
+Training Loss: 1.774710233098939, Training Accuracy: 38.74%
+Testing Loss: 1.7786443859688938, Testing Accuracy: 38.54%
+Epoch 4:
+Training Loss: 1.7592018281375243, Training Accuracy: 39.386%
+Testing Loss: 1.7658752850450576, Testing Accuracy: 38.78%
+##################################
+Child's performance: 36.995999999999995
+##################################
+
+Iteration 68:
+Controller's Loss: 141.31219482421875
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.983609310003519, Training Accuracy: 29.252%
+Testing Loss: 1.9109549971044064, Testing Accuracy: 33.02%
+Epoch 1:
+Training Loss: 1.8791036954016984, Training Accuracy: 33.872%
+Testing Loss: 1.9015774962261318, Testing Accuracy: 33.55%
+Epoch 2:
+Training Loss: 1.8494710577209295, Training Accuracy: 35.254%
+Testing Loss: 1.8857824585020542, Testing Accuracy: 33.48%
+Epoch 3:
+Training Loss: 1.8326119361524285, Training Accuracy: 35.942%
+Testing Loss: 1.878810248390585, Testing Accuracy: 33.85%
+Epoch 4:
+Training Loss: 1.8213108271673322, Training Accuracy: 36.548%
+Testing Loss: 1.8744707487769425, Testing Accuracy: 34.21%
+##################################
+Child's performance: 33.622
+##################################
+
+Iteration 69:
+Controller's Loss: 131.49746704101562
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.005687393220067, Training Accuracy: 30.166%
+Testing Loss: 1.9201163578227163, Testing Accuracy: 33.66%
+Epoch 1:
+Training Loss: 1.8716616137111186, Training Accuracy: 35.642%
+Testing Loss: 1.8574909807898103, Testing Accuracy: 36.07%
+Epoch 2:
+Training Loss: 1.8150199305319785, Training Accuracy: 37.896%
+Testing Loss: 1.8104482455872, Testing Accuracy: 37.83%
+Epoch 3:
+Training Loss: 1.7824007441816478, Training Accuracy: 39.178%
+Testing Loss: 1.7834516784518957, Testing Accuracy: 38.96%
+Epoch 4:
+Training Loss: 1.7612344000898301, Training Accuracy: 39.784%
+Testing Loss: 1.7715249229490757, Testing Accuracy: 39.48%
+##################################
+Child's performance: 37.199999999999996
+##################################
+
+Iteration 70:
+Controller's Loss: 148.91844177246094
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.1633159039301426, Training Accuracy: 21.724%
+Testing Loss: 2.05727670936659, Testing Accuracy: 26.29%
+Epoch 1:
+Training Loss: 2.007053522486389, Training Accuracy: 28.55%
+Testing Loss: 1.9987072657780722, Testing Accuracy: 28.48%
+Epoch 2:
+Training Loss: 1.933524261427205, Training Accuracy: 31.648%
+Testing Loss: 1.9629829497812317, Testing Accuracy: 29.98%
+Epoch 3:
+Training Loss: 1.8929432373753283, Training Accuracy: 33.28%
+Testing Loss: 1.9347104169519618, Testing Accuracy: 30.97%
+Epoch 4:
+Training Loss: 1.8710242205224, Training Accuracy: 34.35%
+Testing Loss: 1.9272809522423893, Testing Accuracy: 31.1%
+##################################
+Child's performance: 29.363999999999997
+##################################
+
+Iteration 71:
+Controller's Loss: 114.60881805419922
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9653439835191517, Training Accuracy: 29.696%
+Testing Loss: 1.8789751693680883, Testing Accuracy: 33.39%
+Epoch 1:
+Training Loss: 1.8487121968623996, Training Accuracy: 34.954%
+Testing Loss: 1.8546802886381746, Testing Accuracy: 35.19%
+Epoch 2:
+Training Loss: 1.8112216932678222, Training Accuracy: 36.704%
+Testing Loss: 1.8502350718330591, Testing Accuracy: 34.77%
+Epoch 3:
+Training Loss: 1.7911406022150815, Training Accuracy: 37.524%
+Testing Loss: 1.8318747413299978, Testing Accuracy: 35.75%
+Epoch 4:
+Training Loss: 1.7772598568611593, Training Accuracy: 38.154%
+Testing Loss: 1.8353747204095126, Testing Accuracy: 35.84%
+##################################
+Child's performance: 34.988
+##################################
+
+Iteration 72:
+Controller's Loss: 139.60031127929688
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.063078914806396, Training Accuracy: 25.142%
+Testing Loss: 1.9949586050711572, Testing Accuracy: 28.77%
+Epoch 1:
+Training Loss: 1.9707790741902589, Training Accuracy: 29.48%
+Testing Loss: 1.9818656400755048, Testing Accuracy: 28.41%
+Epoch 2:
+Training Loss: 1.9409112510795892, Training Accuracy: 30.868%
+Testing Loss: 1.983883219038695, Testing Accuracy: 28.59%
+Epoch 3:
+Training Loss: 1.9223056342495979, Training Accuracy: 31.634%
+Testing Loss: 1.979638173185289, Testing Accuracy: 28.95%
+Epoch 4:
+Training Loss: 1.9108449106749892, Training Accuracy: 32.356%
+Testing Loss: 1.9717666975013912, Testing Accuracy: 29.57%
+##################################
+Child's performance: 28.857999999999997
+##################################
+
+Iteration 73:
+Controller's Loss: 112.22416687011719
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9893454242704809, Training Accuracy: 30.818%
+Testing Loss: 1.897607584169507, Testing Accuracy: 34.93%
+Epoch 1:
+Training Loss: 1.8571101296594739, Training Accuracy: 36.248%
+Testing Loss: 1.8479191230610013, Testing Accuracy: 36.74%
+Epoch 2:
+Training Loss: 1.809103732845336, Training Accuracy: 38.118%
+Testing Loss: 1.8039360410965979, Testing Accuracy: 38.03%
+Epoch 3:
+Training Loss: 1.7807806381454319, Training Accuracy: 39.286%
+Testing Loss: 1.786593563555181, Testing Accuracy: 38.41%
+Epoch 4:
+Training Loss: 1.7629288930684328, Training Accuracy: 39.792%
+Testing Loss: 1.7753791028916837, Testing Accuracy: 39.02%
+##################################
+Child's performance: 37.426
+##################################
+
+Iteration 74:
+Controller's Loss: 144.1419219970703
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.036498169286847, Training Accuracy: 28.54%
+Testing Loss: 1.9826835959658027, Testing Accuracy: 29.68%
+Epoch 1:
+Training Loss: 1.935425665138215, Training Accuracy: 32.844%
+Testing Loss: 1.9180462798327207, Testing Accuracy: 33.05%
+Epoch 2:
+Training Loss: 1.8934402935263515, Training Accuracy: 34.732%
+Testing Loss: 1.8816061964541673, Testing Accuracy: 34.77%
+Epoch 3:
+Training Loss: 1.865616745033711, Training Accuracy: 35.698%
+Testing Loss: 1.862875855396688, Testing Accuracy: 36.07%
+Epoch 4:
+Training Loss: 1.847129841634929, Training Accuracy: 36.508%
+Testing Loss: 1.8519073085024953, Testing Accuracy: 36.26%
+##################################
+Child's performance: 33.965999999999994
+##################################
+
+Iteration 75:
+Controller's Loss: 136.05397033691406
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0327198337456585, Training Accuracy: 28.296%
+Testing Loss: 1.9479234726786614, Testing Accuracy: 32.44%
+Epoch 1:
+Training Loss: 1.9070799113866688, Training Accuracy: 34.33%
+Testing Loss: 1.8761467890977859, Testing Accuracy: 35.55%
+Epoch 2:
+Training Loss: 1.8468744520378113, Training Accuracy: 36.62%
+Testing Loss: 1.8333786738425493, Testing Accuracy: 36.92%
+Epoch 3:
+Training Loss: 1.812504549394846, Training Accuracy: 37.786%
+Testing Loss: 1.8070888749502598, Testing Accuracy: 38.07%
+Epoch 4:
+Training Loss: 1.7920122900087387, Training Accuracy: 38.652%
+Testing Loss: 1.7938412503868342, Testing Accuracy: 38.18%
+##################################
+Child's performance: 36.232
+##################################
+
+Iteration 76:
+Controller's Loss: 138.43252563476562
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.3667453567421437, Training Accuracy: 10.242%
+Testing Loss: 2.399709212017059, Testing Accuracy: 10.67%
+Epoch 1:
+Training Loss: 2.280592995772958, Training Accuracy: 14.89%
+Testing Loss: 2.2618600274026393, Testing Accuracy: 15.72%
+Epoch 2:
+Training Loss: 2.1972062661778926, Training Accuracy: 19.328%
+Testing Loss: 2.1966247608199714, Testing Accuracy: 19.49%
+Epoch 3:
+Training Loss: 2.1632183366823194, Training Accuracy: 21.36%
+Testing Loss: 2.1746731171160936, Testing Accuracy: 20.68%
+Epoch 4:
+Training Loss: 2.140259872182906, Training Accuracy: 22.324%
+Testing Loss: 2.162899023669958, Testing Accuracy: 20.94%
+##################################
+Child's performance: 17.5
+##################################
+
+Iteration 77:
+Controller's Loss: 66.97471618652344
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9752662481294572, Training Accuracy: 29.514%
+Testing Loss: 1.9038955237820745, Testing Accuracy: 32.81%
+Epoch 1:
+Training Loss: 1.8578103461533786, Training Accuracy: 34.618%
+Testing Loss: 1.8778785082817078, Testing Accuracy: 34.05%
+Epoch 2:
+Training Loss: 1.8268502151810377, Training Accuracy: 35.932%
+Testing Loss: 1.8733867392279209, Testing Accuracy: 34.13%
+Epoch 3:
+Training Loss: 1.8095117991681398, Training Accuracy: 36.696%
+Testing Loss: 1.8754895700260996, Testing Accuracy: 34.0%
+Epoch 4:
+Training Loss: 1.7991292159831525, Training Accuracy: 37.158%
+Testing Loss: 1.870974132584408, Testing Accuracy: 34.4%
+##################################
+Child's performance: 33.878
+##################################
+
+Iteration 78:
+Controller's Loss: 132.50106811523438
+##################################
+Child's operations: [<function RotateImage at 0x7f91dbd18840>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9797507014596463, Training Accuracy: 31.714%
+Testing Loss: 1.8624776903383433, Testing Accuracy: 35.6%
+Epoch 1:
+Training Loss: 1.8069973074948789, Training Accuracy: 38.52%
+Testing Loss: 1.7903557900890708, Testing Accuracy: 38.28%
+Epoch 2:
+Training Loss: 1.7540923342728614, Training Accuracy: 40.458%
+Testing Loss: 1.7581733310248702, Testing Accuracy: 39.39%
+Epoch 3:
+Training Loss: 1.7270064597267658, Training Accuracy: 41.454%
+Testing Loss: 1.7396827644608914, Testing Accuracy: 40.06%
+Epoch 4:
+Training Loss: 1.7102020219029486, Training Accuracy: 41.984%
+Testing Loss: 1.730000348494202, Testing Accuracy: 40.52%
+##################################
+Child's performance: 38.769999999999996
+##################################
+
+Iteration 79:
+Controller's Loss: 149.31704711914062
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.040741221781671, Training Accuracy: 28.344%
+Testing Loss: 2.00549130846858, Testing Accuracy: 29.88%
+Epoch 1:
+Training Loss: 1.9577901057568192, Training Accuracy: 32.52%
+Testing Loss: 1.9440936535388231, Testing Accuracy: 33.24%
+Epoch 2:
+Training Loss: 1.921965525443852, Training Accuracy: 33.79%
+Testing Loss: 1.9166641002804041, Testing Accuracy: 33.76%
+Epoch 3:
+Training Loss: 1.8996368371939658, Training Accuracy: 34.836%
+Testing Loss: 1.897931293348968, Testing Accuracy: 34.47%
+Epoch 4:
+Training Loss: 1.886320276442021, Training Accuracy: 35.258%
+Testing Loss: 1.8874653356820346, Testing Accuracy: 35.01%
+##################################
+Child's performance: 33.272
+##################################
+
+Iteration 80:
+Controller's Loss: 129.7672882080078
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0486902237346767, Training Accuracy: 27.65%
+Testing Loss: 1.9502500006139278, Testing Accuracy: 32.57%
+Epoch 1:
+Training Loss: 1.9035739576222002, Training Accuracy: 34.404%
+Testing Loss: 1.8587778746172785, Testing Accuracy: 36.28%
+Epoch 2:
+Training Loss: 1.8354828739312292, Training Accuracy: 36.948%
+Testing Loss: 1.8160770948253573, Testing Accuracy: 37.45%
+Epoch 3:
+Training Loss: 1.799402950168997, Training Accuracy: 38.298%
+Testing Loss: 1.7904230134867132, Testing Accuracy: 38.12%
+Epoch 4:
+Training Loss: 1.7776601846294104, Training Accuracy: 39.112%
+Testing Loss: 1.772288283828646, Testing Accuracy: 39.02%
+##################################
+Child's performance: 36.688
+##################################
+
+Iteration 81:
+Controller's Loss: 138.94595336914062
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.059526188748181, Training Accuracy: 27.87%
+Testing Loss: 2.0035516975566745, Testing Accuracy: 30.96%
+Epoch 1:
+Training Loss: 1.980720791617334, Training Accuracy: 31.386%
+Testing Loss: 1.9603142122343182, Testing Accuracy: 32.31%
+Epoch 2:
+Training Loss: 1.9530067639774085, Training Accuracy: 32.654%
+Testing Loss: 1.948254212474823, Testing Accuracy: 32.04%
+Epoch 3:
+Training Loss: 1.9375160678206385, Training Accuracy: 33.32%
+Testing Loss: 1.9342858897149562, Testing Accuracy: 33.08%
+Epoch 4:
+Training Loss: 1.927878125962168, Training Accuracy: 33.798%
+Testing Loss: 1.9261151061043142, Testing Accuracy: 33.23%
+##################################
+Child's performance: 32.324
+##################################
+
+Iteration 82:
+Controller's Loss: 127.29435729980469
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.2768842839354275, Training Accuracy: 15.46%
+Testing Loss: 2.1462349563151597, Testing Accuracy: 21.63%
+Epoch 1:
+Training Loss: 2.094003275569677, Training Accuracy: 24.486%
+Testing Loss: 2.0877972859501837, Testing Accuracy: 24.21%
+Epoch 2:
+Training Loss: 2.0203886402374507, Training Accuracy: 27.766%
+Testing Loss: 2.0962896033793688, Testing Accuracy: 24.46%
+Epoch 3:
+Training Loss: 1.983849232634157, Training Accuracy: 29.352%
+Testing Loss: 2.044801220588386, Testing Accuracy: 26.68%
+Epoch 4:
+Training Loss: 1.9608018558555842, Training Accuracy: 30.406%
+Testing Loss: 2.0229556955359875, Testing Accuracy: 27.42%
+##################################
+Child's performance: 24.880000000000003
+##################################
+
+Iteration 83:
+Controller's Loss: 95.32852172851562
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0174507974538205, Training Accuracy: 29.534%
+Testing Loss: 1.9307860237747432, Testing Accuracy: 33.85%
+Epoch 1:
+Training Loss: 1.8968775622330607, Training Accuracy: 34.696%
+Testing Loss: 1.8708501725390554, Testing Accuracy: 36.27%
+Epoch 2:
+Training Loss: 1.849731480653435, Training Accuracy: 36.552%
+Testing Loss: 1.846082747232914, Testing Accuracy: 36.23%
+Epoch 3:
+Training Loss: 1.8232920865520834, Training Accuracy: 37.306%
+Testing Loss: 1.8243239264279605, Testing Accuracy: 37.23%
+Epoch 4:
+Training Loss: 1.8068168438714742, Training Accuracy: 37.934%
+Testing Loss: 1.8150673961870372, Testing Accuracy: 37.93%
+##################################
+Child's performance: 36.302
+##################################
+
+Iteration 84:
+Controller's Loss: 142.49771118164062
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.1226277020730078, Training Accuracy: 23.388%
+Testing Loss: 2.018000193414092, Testing Accuracy: 27.35%
+Epoch 1:
+Training Loss: 1.951140945428908, Training Accuracy: 30.528%
+Testing Loss: 1.9642540814712643, Testing Accuracy: 29.76%
+Epoch 2:
+Training Loss: 1.8950143518484384, Training Accuracy: 32.884%
+Testing Loss: 1.9622834656581283, Testing Accuracy: 29.9%
+Epoch 3:
+Training Loss: 1.8671178561276942, Training Accuracy: 33.958%
+Testing Loss: 1.9643423119947314, Testing Accuracy: 30.56%
+Epoch 4:
+Training Loss: 1.8493543298719823, Training Accuracy: 34.68%
+Testing Loss: 1.947998267616704, Testing Accuracy: 30.65%
+##################################
+Child's performance: 29.644
+##################################
+
+Iteration 85:
+Controller's Loss: 113.581298828125
+##################################
+Child's operations: [<function HalfScaledDown at 0x7f91dbd18730>, <function MedianBlur at 0x7f91dbd188c8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.090034993094802, Training Accuracy: 26.082%
+Testing Loss: 2.0197553344085812, Testing Accuracy: 29.77%
+Epoch 1:
+Training Loss: 2.0019704046586155, Training Accuracy: 30.428%
+Testing Loss: 1.9907457289457322, Testing Accuracy: 30.82%
+Epoch 2:
+Training Loss: 1.9730156691612304, Training Accuracy: 31.646%
+Testing Loss: 1.9657101629003881, Testing Accuracy: 30.94%
+Epoch 3:
+Training Loss: 1.9569286328947544, Training Accuracy: 32.03%
+Testing Loss: 1.945573669411242, Testing Accuracy: 32.06%
+Epoch 4:
+Training Loss: 1.9466674745225907, Training Accuracy: 32.46%
+Testing Loss: 1.9397651659801602, Testing Accuracy: 32.95%
+##################################
+Child's performance: 31.308000000000003
+##################################
+
+Iteration 86:
+Controller's Loss: 119.42938232421875
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.944579251825437, Training Accuracy: 30.932%
+Testing Loss: 1.8674241203434765, Testing Accuracy: 34.16%
+Epoch 1:
+Training Loss: 1.8255573143628612, Training Accuracy: 35.974%
+Testing Loss: 1.8490963188298046, Testing Accuracy: 34.92%
+Epoch 2:
+Training Loss: 1.7877609827396275, Training Accuracy: 37.58%
+Testing Loss: 1.8422159299198537, Testing Accuracy: 35.78%
+Epoch 3:
+Training Loss: 1.7649277154629677, Training Accuracy: 38.464%
+Testing Loss: 1.83361200700216, Testing Accuracy: 36.19%
+Epoch 4:
+Training Loss: 1.7513216415642947, Training Accuracy: 38.934%
+Testing Loss: 1.8326073343846947, Testing Accuracy: 36.24%
+##################################
+Child's performance: 35.458000000000006
+##################################
+
+Iteration 87:
+Controller's Loss: 141.47250366210938
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0634317644914986, Training Accuracy: 27.352%
+Testing Loss: 2.0171333844959736, Testing Accuracy: 28.89%
+Epoch 1:
+Training Loss: 1.9888546846550703, Training Accuracy: 31.066%
+Testing Loss: 1.9710803291484713, Testing Accuracy: 31.58%
+Epoch 2:
+Training Loss: 1.9627161677899956, Training Accuracy: 32.356%
+Testing Loss: 1.9523863921254874, Testing Accuracy: 32.74%
+Epoch 3:
+Training Loss: 1.9462071545039117, Training Accuracy: 32.936%
+Testing Loss: 1.9423379235610365, Testing Accuracy: 32.93%
+Epoch 4:
+Training Loss: 1.9357077425277234, Training Accuracy: 33.486%
+Testing Loss: 1.933465468518436, Testing Accuracy: 33.11%
+##################################
+Child's performance: 31.85
+##################################
+
+Iteration 88:
+Controller's Loss: 124.99832153320312
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.1107184524455667, Training Accuracy: 24.932%
+Testing Loss: 2.0623394227802754, Testing Accuracy: 28.14%
+Epoch 1:
+Training Loss: 2.0337575157293677, Training Accuracy: 29.646%
+Testing Loss: 2.013653721407056, Testing Accuracy: 30.74%
+Epoch 2:
+Training Loss: 1.9809837061360478, Training Accuracy: 31.94%
+Testing Loss: 1.9685787834018469, Testing Accuracy: 32.27%
+Epoch 3:
+Training Loss: 1.9390418539765477, Training Accuracy: 33.5%
+Testing Loss: 1.9381731781087816, Testing Accuracy: 33.72%
+Epoch 4:
+Training Loss: 1.9105580179113149, Training Accuracy: 34.664%
+Testing Loss: 1.9149512337960304, Testing Accuracy: 34.81%
+##################################
+Child's performance: 31.936
+##################################
+
+Iteration 89:
+Controller's Loss: 125.37787628173828
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function XYSobelFiltered at 0x7f91dbd18598>]
+##################################
+
+Epoch 0:
+Training Loss: 2.177101242650077, Training Accuracy: 20.092%
+Testing Loss: 2.1227657001383604, Testing Accuracy: 22.42%
+Epoch 1:
+Training Loss: 2.078182643399611, Training Accuracy: 25.142%
+Testing Loss: 2.07397319419235, Testing Accuracy: 24.94%
+Epoch 2:
+Training Loss: 2.04522912196029, Training Accuracy: 26.382%
+Testing Loss: 2.079100650376454, Testing Accuracy: 24.39%
+Epoch 3:
+Training Loss: 2.024093785181679, Training Accuracy: 27.594%
+Testing Loss: 2.0678940393947065, Testing Accuracy: 25.06%
+Epoch 4:
+Training Loss: 2.0105221163270994, Training Accuracy: 28.142%
+Testing Loss: 2.0656760452324523, Testing Accuracy: 24.98%
+##################################
+Child's performance: 24.358
+##################################
+
+Iteration 90:
+Controller's Loss: 94.94374084472656
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.017511816935539, Training Accuracy: 29.196%
+Testing Loss: 1.9588039070010186, Testing Accuracy: 32.02%
+Epoch 1:
+Training Loss: 1.9241438625358045, Training Accuracy: 33.64%
+Testing Loss: 1.9213588780485094, Testing Accuracy: 33.03%
+Epoch 2:
+Training Loss: 1.879891950635314, Training Accuracy: 35.594%
+Testing Loss: 1.8699364514768124, Testing Accuracy: 36.05%
+Epoch 3:
+Training Loss: 1.8524371463520826, Training Accuracy: 36.496%
+Testing Loss: 1.8555317218080163, Testing Accuracy: 36.21%
+Epoch 4:
+Training Loss: 1.834470917609334, Training Accuracy: 37.166%
+Testing Loss: 1.8409822612896563, Testing Accuracy: 37.21%
+##################################
+Child's performance: 34.904
+##################################
+
+Iteration 91:
+Controller's Loss: 137.04348754882812
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.046999946529269, Training Accuracy: 27.824%
+Testing Loss: 1.9845775930091738, Testing Accuracy: 30.54%
+Epoch 1:
+Training Loss: 1.9514267739683389, Training Accuracy: 32.418%
+Testing Loss: 1.9359510476440192, Testing Accuracy: 32.08%
+Epoch 2:
+Training Loss: 1.914145328156203, Training Accuracy: 34.098%
+Testing Loss: 1.9108809847861528, Testing Accuracy: 34.03%
+Epoch 3:
+Training Loss: 1.8915030356130005, Training Accuracy: 34.908%
+Testing Loss: 1.8906358182907104, Testing Accuracy: 34.67%
+Epoch 4:
+Training Loss: 1.8768383087928593, Training Accuracy: 35.434%
+Testing Loss: 1.8800466920070351, Testing Accuracy: 35.36%
+##################################
+Child's performance: 33.336
+##################################
+
+Iteration 92:
+Controller's Loss: 133.02894592285156
+##################################
+Child's operations: [<function MedianBlur at 0x7f91dbd188c8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.05604943700701, Training Accuracy: 27.056%
+Testing Loss: 1.9915041474357247, Testing Accuracy: 29.85%
+Epoch 1:
+Training Loss: 1.960647975206077, Training Accuracy: 32.198%
+Testing Loss: 1.9382303166747092, Testing Accuracy: 32.94%
+Epoch 2:
+Training Loss: 1.925475605763495, Training Accuracy: 33.746%
+Testing Loss: 1.9132603392332792, Testing Accuracy: 34.03%
+Epoch 3:
+Training Loss: 1.9048513839782775, Training Accuracy: 34.388%
+Testing Loss: 1.9029701302826405, Testing Accuracy: 33.71%
+Epoch 4:
+Training Loss: 1.891429190455079, Training Accuracy: 34.792%
+Testing Loss: 1.8926489569567144, Testing Accuracy: 34.5%
+##################################
+Child's performance: 33.006
+##################################
+
+Iteration 93:
+Controller's Loss: 127.18092346191406
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.954014137620181, Training Accuracy: 30.24%
+Testing Loss: 1.8640909626528621, Testing Accuracy: 34.79%
+Epoch 1:
+Training Loss: 1.8247463727259636, Training Accuracy: 35.822%
+Testing Loss: 1.8363906874302776, Testing Accuracy: 35.85%
+Epoch 2:
+Training Loss: 1.780058419900909, Training Accuracy: 37.71%
+Testing Loss: 1.828652797165513, Testing Accuracy: 36.1%
+Epoch 3:
+Training Loss: 1.7560379368387908, Training Accuracy: 38.55%
+Testing Loss: 1.8157174801446498, Testing Accuracy: 36.4%
+Epoch 4:
+Training Loss: 1.740889723405689, Training Accuracy: 39.226%
+Testing Loss: 1.8174672546729445, Testing Accuracy: 35.95%
+##################################
+Child's performance: 35.818000000000005
+##################################
+
+Iteration 94:
+Controller's Loss: 142.8941650390625
+##################################
+Child's operations: [<function XYSobelFiltered at 0x7f91dbd18598>, <function HarrisRMap at 0x7f91dbd18620>]
+##################################
+
+Epoch 0:
+Training Loss: 2.327038960106671, Training Accuracy: 12.286%
+Testing Loss: 2.1760341695487497, Testing Accuracy: 19.86%
+Epoch 1:
+Training Loss: 2.1737028663268685, Training Accuracy: 20.272%
+Testing Loss: 2.174385428649932, Testing Accuracy: 20.88%
+Epoch 2:
+Training Loss: 2.1315501267640293, Training Accuracy: 22.268%
+Testing Loss: 2.13731916218102, Testing Accuracy: 21.15%
+Epoch 3:
+Training Loss: 2.1007343578175455, Training Accuracy: 23.67%
+Testing Loss: 2.1026897850785407, Testing Accuracy: 22.46%
+Epoch 4:
+Training Loss: 2.073816184949465, Training Accuracy: 24.924%
+Testing Loss: 2.09261857598722, Testing Accuracy: 23.72%
+##################################
+Child's performance: 21.613999999999997
+##################################
+
+Iteration 95:
+Controller's Loss: 84.00982666015625
+##################################
+Child's operations: [<function GaussianBlurred at 0x7f91dbd187b8>, <function GaussianBlurred at 0x7f91dbd187b8>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0497472341397405, Training Accuracy: 27.538%
+Testing Loss: 1.9862054719999434, Testing Accuracy: 31.98%
+Epoch 1:
+Training Loss: 1.9603946380388737, Training Accuracy: 32.22%
+Testing Loss: 1.9434732029095292, Testing Accuracy: 33.78%
+Epoch 2:
+Training Loss: 1.9265763682705164, Training Accuracy: 33.756%
+Testing Loss: 1.9182089018449187, Testing Accuracy: 33.91%
+Epoch 3:
+Training Loss: 1.9055176735706627, Training Accuracy: 34.64%
+Testing Loss: 1.9137035995841025, Testing Accuracy: 33.71%
+Epoch 4:
+Training Loss: 1.8922062096557022, Training Accuracy: 35.144%
+Testing Loss: 1.8989620051205158, Testing Accuracy: 34.68%
+##################################
+Child's performance: 33.612
+##################################
+
+Iteration 96:
+Controller's Loss: 134.13035583496094
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledUp at 0x7f91dbd186a8>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9598596499757468, Training Accuracy: 30.114%
+Testing Loss: 1.8766790467936545, Testing Accuracy: 34.05%
+Epoch 1:
+Training Loss: 1.8203998964663595, Training Accuracy: 35.796%
+Testing Loss: 1.847634436097741, Testing Accuracy: 35.42%
+Epoch 2:
+Training Loss: 1.7803214109904693, Training Accuracy: 37.412%
+Testing Loss: 1.835012553010881, Testing Accuracy: 35.69%
+Epoch 3:
+Training Loss: 1.7566702073769271, Training Accuracy: 38.47%
+Testing Loss: 1.8253763526942581, Testing Accuracy: 35.8%
+Epoch 4:
+Training Loss: 1.7414667924275995, Training Accuracy: 39.132%
+Testing Loss: 1.8297016363134608, Testing Accuracy: 35.38%
+##################################
+Child's performance: 35.267999999999994
+##################################
+
+Iteration 97:
+Controller's Loss: 140.71240234375
+##################################
+Child's operations: [<function HalfScaledUp at 0x7f91dbd186a8>, <function RotateImage at 0x7f91dbd18840>]
+##################################
+
+Epoch 0:
+Training Loss: 2.0605845299181342, Training Accuracy: 27.348%
+Testing Loss: 1.9711817043691873, Testing Accuracy: 31.44%
+Epoch 1:
+Training Loss: 1.9341160159602762, Training Accuracy: 33.132%
+Testing Loss: 1.9104785270661115, Testing Accuracy: 34.08%
+Epoch 2:
+Training Loss: 1.8841946811334789, Training Accuracy: 35.168%
+Testing Loss: 1.8780557040378452, Testing Accuracy: 34.93%
+Epoch 3:
+Training Loss: 1.8563054501891136, Training Accuracy: 36.204%
+Testing Loss: 1.8581873748019337, Testing Accuracy: 36.06%
+Epoch 4:
+Training Loss: 1.8387236714476347, Training Accuracy: 37.06%
+Testing Loss: 1.8451657745242118, Testing Accuracy: 36.94%
+##################################
+Child's performance: 34.69
+##################################
+
+Iteration 98:
+Controller's Loss: 136.23504638671875
+##################################
+Child's operations: [<function HarrisRMap at 0x7f91dbd18620>, <function HalfScaledDown at 0x7f91dbd18730>]
+##################################
+
+Epoch 0:
+Training Loss: 1.9326071825662254, Training Accuracy: 31.344%
+Testing Loss: 1.852376199639216, Testing Accuracy: 34.69%
+Epoch 1:
+Training Loss: 1.8060544397021085, Training Accuracy: 36.662%
+Testing Loss: 1.8173315469641238, Testing Accuracy: 36.1%
+Epoch 2:
+Training Loss: 1.766471370946318, Training Accuracy: 38.526%
+Testing Loss: 1.8158037378858776, Testing Accuracy: 36.56%
+Epoch 3:
+Training Loss: 1.7438825116796792, Training Accuracy: 39.534%
+Testing Loss: 1.8013919531200082, Testing Accuracy: 37.07%
+Epoch 4:
+Training Loss: 1.7281916835206002, Training Accuracy: 40.01%
+Testing Loss: 1.797816506323591, Testing Accuracy: 37.24%
+##################################
+Child's performance: 36.332
+##################################
+
+Iteration 99:
+Controller's Loss: 140.9954833984375

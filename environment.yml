@@ -1,0 +1,4 @@
+name: cvpro
+channels:
+  - defaults
+prefix: /home/harsh/anaconda3/envs/cvpro
